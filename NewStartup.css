@@ -1,0 +1,22 @@
+a:link{
+  text-decoration: none;
+  color: red;
+}
+a:visited{
+  color: orange;
+}
+a:hover{
+  color: green;
+}
+a:active{
+  color: blue;
+}
+.form1{
+  margin: 20px 500px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+.color{
+  color: #99004d;
+}
